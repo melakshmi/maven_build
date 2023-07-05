@@ -5,11 +5,16 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <build>
+<<<<<<< HEAD
     
+=======
+   
+>>>>>>> 1bf20c718f71b840aaac2061b5e8333b3d2aeecc
       <plugins>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
+<<<<<<< HEAD
           <version>3.0.0</version>
           <configuration>
                      
@@ -24,6 +29,16 @@
                  <target>1.8</target>   
           </configuration>
           </plugin>
+=======
+          <version>3.1.2</version>
+          <configuration>         
+          </configuration>
+        </plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.8.1</version>
+        <plugin>
+>>>>>>> 1bf20c718f71b840aaac2061b5e8333b3d2aeecc
       </plugins>
     
   </build>
