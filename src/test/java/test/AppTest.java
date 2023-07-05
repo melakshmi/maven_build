@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class AppTest {
 
 	@Test
-	public void tsetlogin1()
+	public void testlogin1()
 	{
 		App myapp=new App();
 		Assert.assertEquals(0,myapp.userLogin("abc","abcs123"));
