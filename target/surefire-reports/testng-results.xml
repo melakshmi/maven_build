@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-05T16:40:39 IST" name="Surefire suite" finished-at="2023-07-05T16:40:39 IST" duration-ms="101">
+  <suite started-at="2023-07-05T17:01:07 IST" name="Surefire suite" finished-at="2023-07-05T17:01:07 IST" duration-ms="62">
     <groups>
     </groups>
-    <test started-at="2023-07-05T16:40:39 IST" name="Surefire test" finished-at="2023-07-05T16:40:39 IST" duration-ms="101">
+    <test started-at="2023-07-05T17:01:07 IST" name="Surefire test" finished-at="2023-07-05T17:01:07 IST" duration-ms="62">
       <class name="test.AppTest">
-        <test-method signature="testlogin1()[pri:0, instance:test.AppTest@66498326]" started-at="2023-07-05T16:40:39 IST" name="testlogin1" finished-at="2023-07-05T16:40:39 IST" duration-ms="17" status="PASS">
+        <test-method signature="testlogin1()[pri:0, instance:test.AppTest@66498326]" started-at="2023-07-05T17:01:07 IST" name="testlogin1" finished-at="2023-07-05T17:01:07 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin1 -->
-        <test-method signature="testlogin2()[pri:0, instance:test.AppTest@66498326]" started-at="2023-07-05T16:40:39 IST" name="testlogin2" finished-at="2023-07-05T16:40:39 IST" duration-ms="0" status="PASS">
+        <test-method signature="testlogin2()[pri:0, instance:test.AppTest@66498326]" started-at="2023-07-05T17:01:07 IST" name="testlogin2" finished-at="2023-07-05T17:01:07 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin2 -->
